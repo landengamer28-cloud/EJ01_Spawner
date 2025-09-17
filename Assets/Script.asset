@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88708502d3eb39a49854feb8bf0f599b, type: 3}
   m_Name: Script
   m_EditorClassIdentifier: Assembly-CSharp::Script
-  prefab: {fileID: 0}
+  prefab: {fileID: 3511937532835419854, guid: 0783be762784ce74f94595b2beb0ca86, type: 3}
   cantidad: 5
   distancia: 2
   direccion: {x: 1, y: 0, z: 0}
