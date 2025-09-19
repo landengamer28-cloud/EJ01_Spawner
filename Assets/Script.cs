@@ -4,8 +4,8 @@ using UnityEngine;
 public class Script : ScriptableObject
 {
     public GameObject prefab;
-    public int cantidad = 5;
-    public float distancia = 2f;
-    public Vector3 direccion = Vector3.right;
+    public int cantidad ;
+    public float distancia ;
+    public Vector3 direccion;
 
 }
